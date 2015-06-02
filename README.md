@@ -1,4 +1,4 @@
-Icon Collections
+# Icon Collections
 
 ![](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo.png)
 
@@ -11,3 +11,8 @@ Icon Collections
 ![](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_high.png)
 
 ![](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_low.png)
+
+# License
+
+NYSL: http://www.kmonos.net/nysl/index.en.html
+
