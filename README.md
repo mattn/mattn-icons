@@ -42,6 +42,8 @@
 
 ![logo_ramen_man.png](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_ramen_man.png)
 
+![logo_saltbae.png](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_saltbae.png)
+
 ![logo_unko.png](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_unko.png)
 
 ![logo_wanted.png](https://raw.githubusercontent.com/mattn/mattn-icons/master/logo_wanted.png)
